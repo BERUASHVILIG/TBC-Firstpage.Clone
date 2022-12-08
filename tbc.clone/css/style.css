@@ -1,0 +1,193 @@
+body   {
+    background: #e6eaee !important; 
+}
+.brand-header {
+    height: 65px;
+    background: #00a3e0;
+    width: 100%;
+}
+#logo {
+    width: auto;
+    height: 42px;
+    position: absolute;
+    left: 30;
+    top: 11px;
+}
+.container3 {
+    position: absolute;
+    border-radius: 15px;
+    margin-left: 68.5rem;
+    margin-top: 9.5rem;
+    width: 140px;
+    height: 220px;
+    background-color: #005daa;
+}
+.container4 {
+    position: absolute;
+    border-radius: 15px;
+    margin-left: 49rem;
+    margin-top: 25rem;
+    width: 140px;
+    height: 220px;
+    background-color: #00aff0;
+}
+p {
+    color: #fff;
+    font-size: 14px;
+}
+.texts {
+    font-size: 14px;
+    line-height: 16px;
+    color: #fff;
+    margin: 20px 10px 20px 10px;
+    display: inline-block;
+}
+.texts1 {
+    font-size: 14px;
+    line-height: 16px;
+    color: #fff;
+    margin: 0px 40px 0px 40px;
+    display: inline-block;
+}
+.kursi2 {
+    float: left;
+    margin-left: 10px;
+    margin-top: -15px
+}
+.kursi3 {
+    float: left;
+    margin-left: -40px;
+    margin-top: 12px;
+}
+.flag1 {
+    float: left;
+    width: 30px;
+    height: 20px;
+    margin: 0 10px 10px 20px;
+}
+.flag2 {
+    float: left;
+    width: 30px;
+    height: 20px;
+    margin-left: 20px;
+    margin-top: -12px;
+}
+.flag3 {
+    float: left;
+    width: 30px;
+    height: 20px;
+    margin-left: -80px;
+    margin-top: 15px;
+}
+.img1 {
+    position: absolute;
+    width: 460px;
+    border-radius: 15px;
+    margin-top: 9.5rem;
+    margin-left: 19rem;
+}
+.img2 {
+    position: absolute;
+    margin-bottom: 5rem;
+    width: 300px;
+    border-radius: 15px;
+    margin-left: 49rem;
+    margin-top: 9.5rem;
+}
+.img3 {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.img5 {
+    position: absolute;
+    width: 300px;
+    border-radius: 15px;
+    margin-left: 19rem ;
+    margin-top: 39.5rem;
+}
+.img6 {
+    position: absolute;
+    width: 300px;
+    border-radius: 15px;
+    margin-left: 38.5rem;
+    margin-top: 39.5rem;
+}
+.img7 {
+    position: absolute;
+    width: 300px;
+    border-radius: 15px;
+    margin-left: 58.5rem;
+    margin-top: 25rem;
+}
+.img8 {
+    position: absolute;
+    width: 300px;
+    border-radius: 15px;
+    margin-left: 58.5rem;
+    margin-top: 54.5rem;
+}
+.inform1 {
+    color: white;
+    font-size: 25px;
+}
+.hover1 {
+    position: absolute;
+    height: 55px;
+    width: 30.1%;
+    margin-left: 19rem;
+    margin-top: 35rem;
+    border-radius: 0 0 15px 15px;
+    padding: 15px 20px 0px 20px;
+    background-color: #56546099;
+}
+.hover2 {
+    position: absolute;
+    height: 55px;
+    width: 19.8%;
+    margin-left: 49rem;
+    margin-top: 19.8rem;
+    border-radius: 0 0 15px 15px;
+    padding: 15px 20px 0px 20px;
+    background-color: #56546099;
+
+}
+.hover5 {
+    position: absolute;
+    height: 55px;
+    width: 19.8%;
+    margin-left: 19rem;
+    margin-top: 64.8rem;
+    border-radius: 0 0 15px 15px;
+    padding: 15px 20px 0px 20px;
+    background-color: #56546099;
+}
+.hover6 {
+    position: absolute;
+    height: 55px;
+    width: 19.8%;
+    margin-left: 38.5rem;
+    margin-top: 64.8rem;
+    border-radius: 0 0 15px 15px;
+    padding: 15px 20px 0px 20px;
+    background-color: #56546099;
+}
+.hover7 {
+    position: absolute;
+    height: 55px;
+    width: 19.8%;
+    margin-left: 58.5rem;
+    margin-top: 50.3rem;
+    border-radius: 0 0 15px 15px;
+    padding: 15px 20px 0px 20px;
+    background-color: #56546099;
+}
+.hover8 {
+    position: absolute;
+    height: 55px;
+    width: 19.8%;
+    margin-left: 58.5rem;
+    margin-top: 64.8rem;
+    border-radius: 0 0 15px 15px;
+    padding: 15px 20px 0px 20px;
+    background-color: #56546099;
+}
